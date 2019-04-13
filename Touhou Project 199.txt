@@ -1,0 +1,914 @@
+Touhou Project 1❾⑨
+More than an Introduction
+Brian Lee, Yuchen Liu, James Toth
+Con Ja Nai XXV.S
+April 13th, 2019
+Based off Reimu Hakurei
+
+“The Touhou Project is a series of 2D vertically-scrolling danmaku shooting games made by Team Shanghai Alice, with six fighting game spinoffs co-produced with Twilight Frontier.”
+-Touhou Wiki
+What is Touhou Project?
+Talk:
+Touhou: Eastern
+It is not an anime (though there are fan-made ones)
+Canon: Games, CDs, Print Works
+Fandom: Everything you can think of
+Refer:
+If you don’t have time, check out the video intro by This Exists (https://www.youtube.com/watch?v=KO2LMgtrSnc | Welcome to bullet hell - 200,000 subscriber celebration! - YouTube) and have a nice day. Otherwise, stick around!
+
+From Kanji “弾幕” (Barrage)
+lit. “bullet curtain” or “curtain fire”
+Also referred to as bullet hell
+A subgenre of Shoot’em Ups (shmups)
+Slower but denser patterns
+Most aren’t aimed at the player
+“Danmaku”
+Refer:
+Show 52s-2:50
+https://www.youtube.com/watch?v=s2thTbsUP-c | Guide to Touhou - Episode 1: Introduction & Easy mode vs Normal Mode (for first clear). - YouTube
+
+TH 16 is reasonably easy and is on Steam
+HW: Runs on low-spec machines
+OS: Win, Linux, and Mac (wine)
+EN-patch on thpatch.net
+More on moriyashrine.org and
+en.touhouwiki.net
+I wanna play. How should I start?
+Say if you wanna dive right in yourself. Where should I start?
+Each game is mostly independent so you can start anywhere. Some are more difficult than others.
+My suggestion (transition into the slides)
+Refer:
+Show 52s-2:50
+https://www.youtube.com/watch?v=s2thTbsUP-c | Guide to Touhou - Episode 1: Introduction & Easy mode vs Normal Mode (for first clear). - YouTube
+
+Start easy (literally)
+You don’t have to start from the first game and beat every one.
+Check comment section here for which one to choose
+Danmaku is a sport. You can enjoy it without playing it.
+Though more enjoyable if you give it a try
+It’s Too Hard!
+Ref:
+https://www.youtube.com/watch?v=iY_e-WoVIqU | Touhou 6 - The Awesome Power of Icicle Fall -Easy- - YouTube
+https://www.youtube.com/watch?v=s2thTbsUP-c | Guide to Touhou - Episode 1: Introduction & Easy mode vs Normal Mode (for first clear). - YouTube
+
+
+Sole Member of Team Shanghai Alice, Jun'ya Ota (ZUN)
+Most of the entries in the franchise is made by one person, Jun’ya Ota, aka ZUN.
+He chose “ZUN” coz arcade machines back then only allows for 3 chars and it’s somehow close to his name
+If you go to wikipedia, he is listed as the single notable alumni of Tokyo Denki University. It’s the same school where Okabe Rintaro from Steins;Gate is from.
+He has been making Touhou for longer than some of us are alive.
+
+Games made almost by ZUN himself (programming, music, art, and dialog)
+First game started dev. in 1995, released in 1996. Since then ZUN has made 20 Shooting games + 1 brick-out to this day.
+
+Music CDs by ZUN
+He also made 15 CDs, if we don’t coult supplementary discs for printworks and fighting game OSTs. Most of the CDs have its own storyline independent from the games
+
+Fighting Games from Twilight Frontier 
+ZUN collaborated on 6 fighting games, where ZUN provided the story, character design, and some music, and the game is made by Twilight Frontier
+
+Printworks
+Drawn by others but mostly written by ZUN
+ZUN also wrote books and provided scripts for mangas.
+By Wiki’s definition there are 10 series. We’ll touch on them later. 
+
+Gensokyo (幻想郷 - The Land of Fantasy)
+Cute girls shooting cute things
+Originally referred to as The Eastern Country (東の国)
+A forsaken refuge for Youkai
+A remote place in Japan
+
+The story happens in a remote land in Japan called Gensokyo, a haven for the forgotten (like Youkai).
+
+
+Reimu Hakurei
+Marisa Kirisame
+In various games, girls solve “incidents”. These two are the “protagonists”, a shrine maiden and a witch
+Refer:
+The Main Duo
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=52115131 | 【東方】「―ＨＥＲＯ―」/「英エイスト@お仕事募集中」的插画 [pixiv]
+
+Asides from the two mentioned before, you can play as various other characters as well. This is all the playable character for the shooting games.
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=70506717 | 【東方】「東方歴代自機之系譜」/「たれ」的插画 [pixiv]
+
+The Rest (not quite)
+A lot of “magical beings”
+High-school Girl
+Tsukumogami
+Shinigami
+Magician
+Vampire
+Kappa
+Tengu
+Ghost
+Fairy
+God
+Nue
+Oni
+…
+Almost all-female
+Talk:
+Gensokyo has a huge diversity. Each character has vastly different power, design, and lifespan.
+I’m not going through every race, but that first one is not a joke. High-school Girl is a race according to canon.
+As of Mar 16, 2019: 151 characters, 53 races (debatable)
+Refer:
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=44812121 | 【東方】「【６周年目の東方点描】」/「小唄」的插画 [pixiv]
+“Youkai” in PMSS means “other Youkai that does not have a more specific race”. For this presentation, if it’s in yokai.com, it’s a Youkai.
+Did not put the word “Youkai” on the slide because some of them are not.
+Devil is another blanket term under Youkai in TH
+A Japanese “god” is more like a deity embedded in nature/manifested due to belief.
+14
+
+PC-98 Era (1996-1998)
+Talk:
+After a brief overview, let’s go back in time and trace the history of the franchise.
+Refer:
+Based off Reimu Hakurei PC-98 (one-off only)
+
+Talk:
+Let's start with a bit of history. ZUN likes to play games. He also likes game music and wants to make some (coz he didn't know game making). When he got into college as a math major, he was bored and felt like making music for games, so he joined a circle called "Amusement Makers", but no one there made games so he made his own to promote his music. He chose PC-98 coz that was Japan's own version of PC, and it was the platform of choice for indie games (Windows did not have DirectX back then). He would then take minimal amount of credits and devote his spare time into making games. He never owned or used a computer before but learned C by himself. I am gonna show you the first game. Games made on PC-98 cannot run natively on modern PCs, but this footage was captured from genuine hardware.
+
+He chose an-eastern themed game because he knows how to compose eastern music the best. The name "Touhou" literally means "eastern". (Though PC-98 has heavy influence of western theme, cue in Alice later). He chose a shrine maiden as the protagonist because he felt there weren't enough of them in games/anime. 
+Refer:
+He has been playing trumpet and keyboard as an amateur.
+Namesake: "Touhou" sounds good. "Project" because he wants each game to be independent, and not a sequel to one another.
+
+Pictured: 
+2. 東方封魔録 ~ Story of Eastern Wonderland (1997)
+3. 東方夢時空 ~ Phantasmagoria of Dimensional Dream (1997)
+4. 東方幻想郷 ~ Lotus Land Story (1998)
+5. 東方怪綺談 ~ Mystic Square (1998)
+Talk:
+The setting for this era is a bit vague and random. “Gensokyo” as we know was in its infancy. It is almost always referred to as The Eastern Country (東の国).
+I would read a part:
+Background story of Lotus Land Story:
+　　　Hakurei Shrine, located somewhere in the mountains of a certain country in the east, was at peace. 
+　　　The shrine maiden of the Hakurei Shrine, Reimu Hakurei, was also free. 
+　　　Reimu:"Ahhh~, there's nothing (interesting) to do."
+　　　As she said that, large numbers of monsters and such poured out towards the shrine all of a sudden. She got what she deserved.
+
+Do note that PC-98 clashes with current canon so always refer to the newest work. Parts that do not are still canon.
+
+Refer:
+ZUN thought of giving up at during LLS, but persisted due to popularity
+(according to https://en.touhouwiki.net/wiki/Mystic_Square/Music Dream Express)
+
+
+
+From Kanji “同人”
+like-minded people, independent creations (in contrast to corporate)
+Started out as self-published magazines in literary societies
+Expanded to anime, game, music, etc.
+Works mostly distributed at events revolving around doujins
+ComicMarket (Comiket) being the biggest one
+Eventually went online as well, but still limited to Japan
+Doujin
+Based off Alice Margatoid
+
+Taito and Seihou (1999-2002)
+Talk:
+We would deviate a bit and talk about something outside of Touhou that influenced Touhou as well.
+Refer:
+Based off Yuuka Kazami
+
+Seihou Project by Amusement Makers
+Talk:
+Not to be out done by ZUN Senpai, members of Amusement Makers made an opposite version of Touhou
+Seihou: West
+Protagonist VIVIT: Maid battle robot powered by cactus fighting in the earth of future (kinda like Fallout?)
+Refer:
+https://www.youtube.com/watch?v=mCAnqZUYXYA | Ignorant Stohory ☯ - Why Seihou Project helped shape modern Touhou - YouTube
+
+Talk:
+ZUN contributed music and art to the first two games, asked AM to include some TH chars, including Reimu and Marisa, with outfits that look suspicious similar to EoSD
+Marisa has wings that look like Flandre’s BTW, just in pure white
+Refer:
+https://youtu.be/h8cy5Lcukic?t=453 | Seihou 1: Shuusou Gyoku - Extra Stage
+https://youtu.be/h8cy5Lcukic?t=232 | Seihou 1: Shuusou Gyoku - Extra Stage
+
+Talk:
+ZUN contributed music and art to the first two games, asked AM to include some TH chars, including Yuuka with WINGS, Reimu and Marisa that look suspicious similar to EoSD
+Refer:
+Thumbnail of https://www.youtube.com/watch?v=QNmpzYsESiY  | Seihou 2 ~ Kioh Gyoku ~ Yuuka - YouTube
+
+22
+
+pbg helped with the engine for Embodiment of the Scarlet Devil, the first Touhou game on Windows
+https://youtu.be/txh0_jdYzgw?t=154 | Touhou 6: Embodiment of the Scarlet Devil Playthrough [7] - Ending + Credits
+https://github.com/pbghogehoge/ssg | pbghogehoge/ssg: 秋霜玉
+https://github.com/pbghogehoge/kog | pbghogehoge/kog: 稀翁玉
+
+
+
+23
+
+ZUN at Taito
+Talk:
+Hidden cameo of Reimu, 2002
+In 1999, ZUN graduated from college and started working at Taito - the same company that brought you space invaders
+Worked on various games, including Graffiti Kingdom
+ZUN pitched his idea of a shrine maiden-themed STG but was rejected
+Frustrated, he decided to work on his own in his spare time, and eventually left Taito in early 2007, after another game in the works got cancelled
+Refer:
+https://touhou.fandom.com/wiki/Graffiti_Kingdom | Graffiti Kingdom | Touhou Wiki | FANDOM powered by Wikia
+Works with Taito Corporation
+International League Soccer (2000) (Known as Greatest Striker in Japan)
+Magic Pengel (2002)
+Bujingai (2003)
+Graffiti Kingdom (2004)
+EXIT (2005)
+
+Rebirth of Gensokyo (2002-2007)
+Based off Yukari Yakumo
+
+ZUN applied to ComicMarket 61 (winter 2001)
+for a CD he planned on...
+and was rejected
+
+He applied again and was accepted to Comiket 62 (summer 2002)
+So he decided to make another game with the extra time
+ZUN Returned to Doujin Scene
+Talk:
+After “goofing around” during the PC-98 era, while making games at Taito, ZUN decided to work on music by himself
+Why reject: There are so many creators that Comiket has to do a lottery to pick applicants.
+
+Talk:
+To apply for Comiket you need a name for the circle
+ZUN Soft sounds too generic now in ZUN’s opinion.
+上海アリス幻楽団 Shanhai Arisu Gengakudan, lit. "Shanghai Alice Fantasy Band"
+A mysterious mix between east and west
+Refer:
+Although announced after announcement of EoSD, he prbly only had music in mind at the time
+27
+
+Beginning of the Windows Era
+Talk:
+At CM 62, ZUN released a CD (left) and a game (right)
+The story of DiPP is a reference to And Then There is None.
+The game is a “Late 20th century style, 21st century shmup”
+a parody of companies always trying to shove “next-gen” into the mouth of the consumers
+nostalgia mixed with creating something new, but still simple at its core to have fun
+Refer:
+Trivia: Thumbnail of EoSD was printed with light colors to save ink
+
+Episodic Incidents (TH6-9.5)
+Talk:
+Plot of each game is independent.
+Games are mostly independent with "carefree" dialogs, but complexity of story is creeping, with more thoughts pouring into them.
+The one in bottom left is made with collab of Twilight Frontier and is not done by ZUN
+Refer:
+https://youtu.be/pnVfknqnTuo?t=1171 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+Embodiment of Scarlet Devil marked the debut of Touhou on Windows. ZUN chose a western theme to catch ppl by surprise. It introduced "spell cards". It has Vampires, maid, and magicians, and JoJo reference
+https://youtu.be/pnVfknqnTuo?t=3317 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+Perfect Cherry Blossom is a lot more Japanese, about a Ghost trying to revive a body under a cherry tree. Made more emphasis on Japanese poems (Waka).
+https://youtu.be/pnVfknqnTuo?t=3492 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+Imperishable Night introduces lunarians. The story revolves around the legend of the bamboo cutter. Playables from previous game gathered to solve the incident (fake moon). Spell practice, deep backstory. Supposed to be the end of the trilogy, but ZUN continued TH due to popularity. Easy game but hard to get it working on modern OS.
+https://youtu.be/SrZ5nvKZmN8?t=1634 | Touhou 7.5: Immaterial and Missing Power - Reimu
+Arranges done by U2 + ZUN tracks. Art by Alphes
+Fighting game made by Twilight Frontier (Tasofro). Danmaku + fighting
+Endless party
+Thumbnail of https://www.youtube.com/watch?v=KSH24X7nkrE | Touhou 9: Phantasmagoria of Flower View - Yuuka - YouTube
+PoFV is like a fan service. Versus game just like PoDD. A solemn story with quite a bit of philosophical thoughts, about death, war, Death, Yama, and hell.
+Cover https://www.youtube.com/watch?v=7a86AzMcx7g | Touhou 9.5: Shoot the Bullet - Level 1: Wriggle - YouTube
+Tengu paparazzi collecting news
+Harder than mainline game, you don’t shoot bullets, but take pictures of the bullet. Your camera can cancel bullets.
+29
+
+Enriching the Lore
+Talk:
+ZUN conveyed the settings of Gensokyo more in depth with printworks
+Some continues beyond 2007
+THEY DON’T COVER PLOTS OF THE GAME! They complement the games instead.
+Intriguing thoughts by a male spectator (Curiosities of Lotus Asia, novel)
+Prot. Rinoske makes Reimu’s dress and gave Marisa her weapon (mini Hakero)
+	If you wonder what do men do in GSK, now you know.
+Collection of news in GSK (Bohemian Archive in Japanese Red, fanbook-like)
+Settings book by a resident of GSK (Perfect Memento in Strict Sense, settings book)
+Cute fairies doing cute things (Eastern and Little Nature Deity, Strange and Bright Nature Deity, Oriental Sacred Place, Visionary Fairies in Shrine, manga)
+GSK vs Lunarians (Silent Sinner in Blue, manga; Cage in Lunatic Runagate, novel; Inaba of the Moon and Inaba of the Earth, 4-Koma)
+Refer:
+Had ZUN not been invited to write, he might not consider the settings as deeply
+There are multiple Sangetsusei series with different Eng names
+
+A CD series (10 albums so far)
+with continuous storyline independent of TH
+	(but vague connections)
+about two college girls
+(Maribel Hearn and Renko Usami)
+exploring the occult in the near future
+A vehicle for ZUN to express more freely
+The Secret Sealing Club
+GFC is about them exploring a graveyard, turning tombstones to see the Netherworld
+Blonde Hair: Maribel Hearn (Merry), see “gaps” in space, strongly reflecting Yukari
+Brown Hair: Usami Renko, Super unified physics major, living GPS
+One autumn night, two young female mediums are looking for an imaginary world.
+An occult club from an age that knows not of Gensokyo.
+Contrast GSK to a sterile future
+	“graveyard of gods”
+
+A forsaken refuge for Youkai, attracted human exorcists as well.
+500 years ago: Youkai Expansion Project (Yukari Yakumo)
+border between illusion and reality, attracting Youkai
+1885 (Meiji 18): The Great Hakurei Barrier
+	
+
+Settings (Again)
+Talk:
+The setting for GSK only solidified after PMSS, that’s why I postponed talking about the setting in depth ahead of time.
+
+
+Spell Card Rule (Bill for the Naming of Duels)
+Duels between youkai threaten to destroy the small world of Gensokyo.
+However, a lifestyle without duels will cause the youkai to lose their power.
+Accordingly, I would like to permit such duels under the following contract.
+理念
+Principles
+一つ、妖怪が異変を起こし易くする。
+One: To make it easier for youkai to cause incidents.
+一つ、人間が異変を解決し易くする。
+Two: To make it easier for humans to resolve incidents.
+一つ、完全な実力主義を否定する。
+Three: To reject a system wherein only the strongest have the right to rule.
+一つ、美しさと思念に勝る物は無し。
+Four: That beauty and thoughtfulness stand above all.
+Spell Card Rule is kinda a “retcon” as nothing mentions what spell card entails until PMSS
+https://en.touhouwiki.net/wiki/Perfect_Memento_in_Strict_Sense/Draft_of_Spell_Card_Rules | Perfect Memento in Strict Sense/Draft of Spell Card Rules - Touhou Wiki - Characters, games, locations, and more
+Danmaku is a sport
+How to play: throw and dodge things
+Competitive, but to a limit
+You have to “spell” your attacks
+Whoever creates incidents have to accept challenge until defeated
+
+Yes. Touhou has lore. A lot of it, but underappreciated.
+Inspiration from Japanese/Asian myth and folklore
+boldly mixed with western mythology and sci-fi
+Carefree atmosphere with a touch of serious undertone
+	Human and Youkai
+	Human vs Youkai
+	Modern vs Retro
+	Immortality
+	...
+“Gensokyo accepts everything. And that's a cruel, cruel thing.”
+
+
+What to expect from the lore?
+Underappreciation is partly ZUN’s own choice/fault as the game doesn’t leave a lot of room for dialogs.
+https://en.touhouwiki.net/wiki/Immaterial_and_Missing_Power/Story/Yukari%27s_Script#Yukari_beats_someone | Immaterial and Missing Power/Story/Yukari's Script - Touhou Wiki - Characters, games, locations, and more
+
+
+Religious War (2007-2013) 
+Talk:
+
+Refer:
+Based off Sanae Kochiya
+Shinto
+	Dominant/native religion of Japan
+	Deities rely on faith to exist 
+	No more faith = cease to exist
+Buddhism
+	Trying to promote co-existence between humans and youkai
+	A religion originally from India
+	Spread out to East Asia, including Japan, and mingled with Shinto
+	No gods/goddesses
+	Cyclical theme of re-birth
+	Birth with Shinto, death with Buddhism
+Taoism
+	Ancient Chinese religion
+	No ‘gods/goddesses’
+	Philosophical in nature
+	Also like Buddhism, it has a series of teachings to abide
+	Ultimate goal is immortality
+	Taoists were largely absent from Gensokyo until the resurrection of Toyosatomimi no Miko
+
+Continuous Story (TH 10-13.5)
+Mountain of Faith (Shinto)
+Subterranean Animism (Former Hell)
+https://youtu.be/pnVfknqnTuo?t=6402 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+TH 10 MoF: Moriya Shrine (based off real-world counter parts) moves into GSK
+https://youtu.be/pnVfknqnTuo?t=7719 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+TH 11 SA: Hot spring and evil spirits coming from underground. God of the shrine started an industrial revolution with nuclear fusion in hell
+Fun fact: bosses in SA are ordered from the somewhat hated to the most hated
+
+Continuous Story (TH 10-13.5)
+Undefined Fantastic Object (Buddhism)
+Ten Desires (Taoism)
+https://youtu.be/pnVfknqnTuo?t=9419 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+TH 12 UFO: UFOs showing up in GSK. Jet of hot water from fusion in SA sent a sealed vault and some sealed Youkai onto ground. The revived Youkai then went on to rescue their saint.
+Homage to Taito’s 30th anniversary (2008)
+https://youtu.be/pnVfknqnTuo?t=10961 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+TH 13 TD: Divine spirits showing up in GSK. The revived saint built their temple on top of a “deceased” emperor who secretly practiced Taoism.
+
+
+Continuous Story (TH 10-13.5)
+TH 13.5 東方心綺楼 ～ Hopeless Masquerade (all)
+Thumbnail of https://www.youtube.com/watch?v=rV_WxpA5PJY | Touhou 13.5: Hopeless Masquerade - Reimu Hakurei - YouTube
+A sudden pessimism in the human village. Different factions swarm to gain popularity. In the end collectively resolved the incident
+Hidden jab at modern politics.
+First aerial fighting game
+
+Sidelines (TH 10.5, 12.3, 12.5, 12.8) 
+Thumbnails:
+https://www.youtube.com/watch?v=UxqseNiJuvg | Touhou 10.5: Scarlet Weather Rhapsody - Suika - YouTube
+https://www.youtube.com/watch?v=QsAXuVaQWc4 | Touhou 12.3: Hisoutensoku - Cirno - YouTube
+https://www.youtube.com/watch?v=pI_dJGdGcvk | Double Spoiler 9-7: Recollection "Vague Recollection of Kinkaku-ji" (Hatate) - YouTube
+https://www.youtube.com/watch?v=hnNVwMY9NGw | Touhou 12.8: Great Fairy Wars - Route A-1 - YouTube
+SWR: Earthquake and weird weather by the celestials, weather system
+Soku: Investigate a mysterious giant. Expansion of SWR. Considered the peak of TH fighters by many fans
+DS: Tengu paparazzi is out again. This time she has a rival.
+GFW: Catfight between fairies. Harder than mainline coz “Fairies are weaker so patterns look harder”. You don’t shoot. You freeze bullets.
+Technically the English part is only “Fairy Wars”, but the kanji has “大” (great) at the front so ppl more often refer to it as Great Fairy Wars
+
+Youkai Revolt (2013-2014)
+Previous incidents are not to overturn the society. From now on, things get serious…
+
+Overturning Gensokyo (TH14, 14.3)
+Double Dealing Character
+Impossible Spell Card
+(Technically started out at the extra stage of Ten Desires)
+Talk:
+GSK is a paradise for powerful Youkai, not for human, not for the weak.
+A Youkai that looks and thinks like Ryūko Matoi wants to change that.
+Thumbnails:
+https://www.youtube.com/watch?v=4m0RyMBmDWc | Touhou 14: Double Dealing Character - Stage 5 - YouTube
+https://www.youtube.com/watch?v=heYhWPpIFno | Touhou 14.3: Impossible Spell Card - Day 10 - YouTube
+41
+
+The Lunarians Strike Back (2015-2018)
+We are now about to introduce the most recent and ambitious arc.
+
+Urban Legend Incident
+TH 14.5 東方深秘録 ～ Urban Legend in Limbo
+Talk:
+We start with rumors (aka urban legends) spreading in GSK. Girls found that they can turn power of the rumor to their own. At the same time purple occult balls start to appear, and were “rumored” that whoever collected them all will have her wish granted. “The Holy Grail War” thus begins.
+Turns out someone outside GSK wants to get in and she spreaded the balls. She dreamed of GSK as a kid, but looks like someone else is behind all this as well...
+
+Thumbnails:
+https://www.youtube.com/watch?v=XJCAwB6FaVY | Touhou Shinpiroku ～ Urban Legend in Limbo: All Characters Last Word Collection - YouTube
+
+GSK is a paradise for powerful Youkai, not for human, not for the weak.
+A Youkai that looks and thinks like Ryūko Matoi wants to change that.
+43
+
+Urban Legend Incident (Continued)
+TH 15 東方紺珠伝 ～ Legacy of Lunatic Kingdom
+Talk:
+So the story continues. Turns out lunarians wanted to move to GSK by displacing it.
+How?
+Spread rumor about the Apollo Hoax (TH ver: NASA saw a secret civilization on Moon and hid the face).
+Use the occult ball to materialize that myth in GSK.
+Lunar capital would displace GSK, wiping it out of existence.
+Why?
+They have been attacked by fairies
+Why fairies?
+	Someone had a beef with the lunarians and asked fairies for a favor.
+Refer:
+https://youtu.be/9eptIrkjwL8?t=3 | Legacy of Lunatic Kingdom Normal Spellcard 76 - "Fake Apollo" - YouTube
+
+44
+
+Return of the Sage
+TH 16 東方天空璋 ～ Hidden Star in Four Seasons
+Talk:
+That was complicated. The next one is technically not in the urban legend arc but the boss would show up later.
+One line plot: A sage wanted to show off, so she caused climate change by placing backdoors into fairies.
+
+45
+
+Perfect Possesion
+TH 15.5 東方憑依華 ～ Antinomy of Common Flowers
+Talk:
+Girls start possessing each other. Turns out you have another self in the dream world. If they run around when you are awake you’re in trouble.
+I have seen PAPERS about mechanisms of perfect possessions.
+Refer:
+https://youtu.be/8PqP356YVek?t=148 | [1.01] Touhou 15.5 - Antinomy of Common Flowers - Doremy Sweet - YouTube
+46
+
+Perfect Possesion (Aftermath)
+TH 16.5 秘封ナイトメアダイアリー ～ Violet Detector
+Talk:
+One liner: a high-school girl can enter GSK while she dreams. She is stuck in the dream world with her dream self, and only one can win and get out.
+I would personally not recommend you play it gameplay-wise. But it gives a glimpse at how perfect possesions work.
+Refer:
+https://youtu.be/8PqP356YVek?t=148 | [1.01] Touhou 15.5 - Antinomy of Common Flowers - Doremy Sweet - YouTube
+47
+
+Future of the Series
+Talk:
+So, what’s the future?
+
+ZUN: Touhou Project Has Become My Lifework
+Talk:
+From what we can game from documents and interviews, ZUN thought of giving up at LLS and IN, but continued due to popularity. Now ZUN treats it as lifework.
+Official side:
+ZUN starts to catch trends. More mainstream campaigns in Japan (collab with Akihabara, orchestra concerts with JAGMO).
+Lukewarm expansion to the rest of the world. Games are coming up on Steam (we’ll get to shortly)
+But ultimately it’s the fans who keep the franchise alive, and after the break we will talk about the fandom.
+Ref:
+https://ch.nicovideo.jp/indies-game/blomaga/ar172115 | ＺＵＮ「『東方Project』は自分のライフワークみたいなものになっている」（代表作：『東方』シリーズ）:RPGアツマール:RPGアツマールch(RPGアツマール) - ニコニコチャンネル:ゲーム
+
+Intermission (5 min.)
+Based off Reimu Hakurei
+
+The Fandom
+small but very niche touhou fanbase both in the east and the west
+
+majority in japan, concentrated around conventions
+
+Comiket, a prominent Touhou convention
+Comiket facts: 
+-At least one day of the 3 days is dedicated specifically to Touhou 
+-Up to couple thousand circles, about 10% of all circles at Comiket (compare Vocaloid and Kancolle at about 2%)
+
+ZUN himself presents his maingames here, (e.g. Touhou 16.5 most recently) along with most of the big-name doujin circles
+
+Comiket 52: he released his first game, Highly Responsive to Prayers
+
+
+Comiket information map: an entire comiket day JUST for touhou, converged at the East Halls of the Tokyo Big Site
+
+and all participating Touhou circles gather in the East Hall of Tokyo Big Sight (TBS) (point)
+
+point on map
+
+
+Reitaisai: another Japanese convention, unique for being Touhou exclusive -- pictured is Reitaisai 12 dealership stand for example
+bit smaller than Comiket, but not by much -- still boasts massive crowds
+typically annual convention, though smaller Autumn Reitaisai also held in recent years
+notable event: reitaisai 8 cancelled because of 2011 fukushima earthquakes, turned into online convention called Air Reitaisai 8, kinda like Redditaisai
+
+both comiket and reitaisai massive sources for touhou merch -- lots of smaller conventions listed on touhou wiki if interested
+
+TRANSITION:
+What about Touhou’s presence in the West? Truthfully, quite sporadic and depends
+
+
+
+Touhou’s Western presence is … rather sporadic, to put it that way
+Best bet is to look for a Touhou convention at an anime con, such as this one!
+pictured: slideshow from Youmacon 2017’s touhou panel
+biggest concentration of 2hu fans, great chance to mingle
+Big chance you might see presenters again
+Watch for the (relatively) uncommon Touhou cosplayer! They’ll appreciate your keen eyes :)
+Most more than happy for photos
+Pictured: Otakon 2017 -- evidently Cirno is best girl /s
+oftentimes simply knowing 2hu is a great conversation starter -- make friends!
+Merch? Hit up the dealership rooms
+Pictured: Dealership room, Youmacon 2011
+Finding 2hu Merch amongst an already small amount of imported merch → a needle in a haystack
+Uncommon enough a dealer will know off the top of their head if they have 2hu or not; when in doubt ask
+Plus side: most people aren’t looking for 2hu stuff so less competition
+Also a matter of having a keen eye
+
+TRANSITION: Can’t make it to conventions? THERE’S STILL HOPE!
+
+
+
+Redditaisai: a free online Touhou convention held on the /r/touhou subreddit during the summer. (fan content itself depends on the content creator)
+
+opportunity to create/get touhou stuff without having to make a pilgrimage to Comiket
+
+first redditaisai was in 2016 and is growing every year -- signups are open now if you’re interested in making content!
+
+
+
+
+Pictured: various Redditaisai submissions
+lots of OC content, very characteristic of Western content creators
+tends to be digital stuff (e.g. music, art)
+very passionate about what they do, just like Japan doujin circles! :)
+
+TRANSITION:
+lots of different conventions with varying Touhou content, but ZUN himself isn’t nearly as prolific and is low-profile.
+i.e. each of his convention visits are high-profile, especially his western visits.
+[CHANGE SLIDE]
+
+ZUN visits the US at Anime Expo 2016!
+Discuss photo: ZUN taking pictures with fans at Anime Expo 2016 -- the few times he is out and about, he is friendly and talks easily with fans.
+
+FIND SOMEONE WHO WAS THERE!
+
+Shorten -> “AWA approached him in a way he appreciated … (ZUN) wants to be just some dude and have fun with other dudes and dudettes. Several cons have tried to get him before, but AWA respected this about him more than the rest.” (Kilg A. Mayan)
+
+First visit was at Anime Weekly Atlanta 2013 as a special guest
+chosen because he could go as a regular convention-goer, not as a celebrity.
+just wants to have fun
+
+second visit was at Anime Expo 2016 (pic above) with NIS America (Nippon Ichi SoftwarE)
+did a panel + AMA [CUE NEXT SLIDE]
+
+
+“What’s your favorite beer?” 
+“Kirin beer.”
+“Who’s your favorite touhous?”
+“Reimu and Marisa.”
+“What kinds of software instruments do you use to make the games?”
+“I use the Roland SD-90. It’s old, but it’s something I still like to use.”
+“Why are there no boys in your game series?”
+“Because they simply get in the way.”
+“Any change of old characters returning?”
+“I won’t say no, but...”
+
+
+Snippets from ZUN’s Q & A
+Question: What is your favorite beer?
+A: Kirin beer.
+Question: Any chances of old characters returning?
+A: I won’t say no, but…
+Question: Why are there no boys in your game series?
+A: Because they simply get in the way
+Question:What kind of software instruments do you use to make the games?
+ZUN: I use the Roland SD-90. It’s old, but it’s something I still like to use.
+
+Question: What Touhous are your most favorite?
+A: Reimu and Marisa
+Question: Do you have a message to give to the fans?
+ZUN: “I honestly didn’t think that there would be this many people since Touhou isn’t available in North America. I’ve seen a lot of people in Touhou cosplays, but for some reason most of them seem to be men. I’ll be here all day tomorrow and Sunday. I’ll be wandering around so please say hi. In the meantime, I’ll try to learn English.”
+
+TRANSITION
+now moving from general fandom activity to what content creators end up producing, i.e. [NEXT SLIDE]
+
+
+
+What’s in a Touhou Doujin?
+Doujin: (doujinshi for short) a self-published work of some kind by an author/group of authors in a limited production scope. (reference way back when)
+
+most commonly released at conventions -- Comiket is in fact a doujinshi market called Comic Market
+
+TRANSITION:
+how is copyright addressed? [CUE NEXT SLIDE]
+
+
+ZUN is generally chill with fan content, with these guidelines:
+Contact him if you’re doing a commercial distribution.
+Don’t reproduce the main game’s literal endings.
+Don’t steal his own physical assets from the games.
+See Touhou Wiki for more information
+ZUN’s Rules for Content Providers
+Fantasy Night, an iOS app notoriously removed for plagiarizing ZUN’s assets
+Guidelines:
+1:
+Typical low-level doujin scale production (e.g. for Comiket) is OK and doesn’t need ZUN’s knowledge.
+example: something like Kobuto Burst Battle (see later) needs ZUN’s knowledge
+2:
+Application of canon lore for the sake of producing derivative work obviously OK.
+ZUN just doesn’t want the game endings carbon copied
+3:
+So long as you make your own assets/music/code/files etc. you’re good. 
+
+reference Fantasy Night -- the first derivative work to violate ZUN’s rules
+
+ZUN’s loose guidelines → massive room for creativity, hence massive Touhou doujin scene.
+
+
+Touhou Music: big and diverse enough to get its own panel
+-Touhou music is primary gateway for new fans -- acknowledge bad apple, the gateway drug
+	- touhou music for literally every genre exists -- classical, J-pop, chiptune, eurobeat, house, alternative, you name it
+	- result of having 2000+ touhou doujin circles :)
+-Promotional Video: (PV) music video accompanying a music album to encourage purchases
+- Mention holy crap quality of some vids
+- Some were so good ppl thought Touhou was an anime
+-To clarify, there is not an official anime, but some come pretty damn close
+	-closest equivalents: Midsummer day dream, memories of phantasm
+
+TRANSITION:
+biggest question regarding touhou music is ...
+
+
+Typically very hard as most music is Japan-release only
+DoujinStyle Download Threads, www.moriyashrine.org, Google 
+Very small Western release if lucky
+Late 2018: doujin circles began global distribution
+Buy your music through Google Play & iTunes!
+See www.touhou-music.jp for a list of supported music
+Where can I get Doujin Music?
+Example Doujin Album Listing on Google Play
+-Pirating:
+	-We don’t officially endorse it, sometimes inevitable for extremely scarce music
+	-Download threads specific to conventions → see DoujinStyle for example
+	-moriyashrine.org might have some available stuff (also can download games)
+	-1.75TB Lossless Music Collection circulating over the internet
+	-online touhou radios also available if you dont like downloading
+	
+-Legal:
+	-typically have to make long and expensive pilgrimage to Japan
+	-can get really difficult to buy digitally from US
+	-very small Western content creators (see Redditaisai as example)
+	-check out musicians’ Bandcamp profile if they have one
+UNTIL VERY RECENTLY
+	- recent google play international release makes it easy
+	-new wave of music just got published about a month ago just before original con ja nai
+
+touhou music deserves its own panel to really do it justice, so montage instead (or not)
+
+
+Tokyo Active NEETS
+Orchestral, Jazz
+A-ONE
+Eurobeat
+Alstroemeria Records
+Vocal, House, Electronic
+some good examples
+
+Tokyo Active NEETS
+notable for making really good orchestral arrangements
+A-ONE
+i love eurobeat
+Alstromeria Records
+fun fact: they made Bad Apple!!!
+
+see more on Touhou Wiki!
+
+
+ZUN’s game art is … unique, to aptly describe it
+ZUN’s art notorious for being comically bad -- not unpresentable bad, but not very good either
+
+pictured: ZUN’s art thru 2hu’s history
+
+nevertheless it’s improved, and his artstyle has become an integral part of Touhou’s identity
+
+
+fanart, however, can be much better
+
+sources for fanart are everywhere, check out pixiv especially
+
+LOTS of found fanart and OC on /r/touhou
+
+can also find fanart in the form of posters at conventions
+personal recommendation: buy OC posters instead of printed out pixiv posters
+
+
+Touhou doujins exist for pretty much every manga type/genre
+Fills in character details canon lore sometimes misses
+Lots of yuri and ships (and hentai too)
+Common Sources:
+MangaDex
+DynastyScans
+Danbooru
+Translation Sources:
+Touhou Wiki
+gensokyo.org
+Fan Printworks/Manga
+Example Doujin Cover
+Romcom, Slice of Life, Drama, Violence, you name it -- someone’s probably made a Touhou doujin manga out of it
+
+some doujins attempt to fill in character/lore details missed in the canon
+
+others simply act out the mangaka’s fantasies, be it yuri, ecchi, hentai and so on
+
+whatever scenario you can imagine someone’s probably made a doujin of that
+
+common sources
+specific mention for danbooru: good source for quick translations, based off “pools” of manga -- has lots of NSFW stuff tho so be careful
+DynastyScans: majority of touhou manga, specializes in yuri if thats ur thing. also has NSFW stuff so be careful
+MangaDex: not nearly as many doujins but on the rise. that said mangadex is the source for general manga
+
+
+---
+
+DS4’s weakest point – not much familiar with the doujinshi scene
+Needs a list of a few noteworthy doujinshis (I included “Echoes in front of the temple” as an example)
+ANGELTYPES – Inu-Sakuya
+Haniwa's Store – Miko Miko Suika
+Happy Flame Time for lulz
+Stripe Pattern – Violent side of gensokyo
+
+
+
+
+“Passion for your Sake” - Jiroo
+Depression, Drama, Violence
+“The Immortals who saw the Death of the Universe” - Alison
+Comedy, Sci-Fi, Supernatural
+“Her and her Dolls” - Aria
+Comedy, Romance, Alice x Marisa
+briefly showcase some recommendations --maybe the base plot?
+
+
+
+Fangames: an extremely diverse doujin subgenre
+Fangames are also numerous and in massive variety -- most released at conventions, and mods exist for the rest
+
+most are japan-only releases and are even more scarce than music (absent pirating + google), though U.S. licensing is becoming prevalent
+
+Most games overwhelmingly Windows-only, (tho Wine works for Mac + Linux) with very few games supporting multiple OSes. (e.g. Taisei Project) On the bright side, most are extremely light and should run fine in any decent comp
+
+[refer to slide] 4 notable examples
+
+Concaled the Conclusion -- showcases usage of the Danmakufu scripting language: a programming language that makes it easy to make danmaku games similar to ZUN’s
+What would happen to Gensokyo if Reimu died?
+Game itself was made free and available for download by author on GitHub
+Touhou Puppet Dance Performance -- notable for being a Pokemon remake featuring Touhou characters
+unfortunately not free and not legally available in US
+Second version - Shard of Dreams - released last year including up to Touhou 15 content
+Super Marisa World -- self explanatory
+spawned a whole series just like the original
+available on Steam, along with a bunch of other games (see later)
+Embodiment of Scarlet Devil 3D: self-explanatory
+surprisingly unique -- 3D danmaku usually doesnt exist
+also unfortunately not free and legally abailable in US
+
+
+
+TRANSITION
+nearly all games for doujin-level scope only, but the doujin scene has expanded… [NEXT SLIDE]
+
+
+Play, Doujin!: a cooperation between ZUN and Sony to release certain high-profile fangames on the Sony PlayStation Network to be playable on the PS4. 
+(most require Japanese PSN account, with exceptions)
+
+[Point to slide]
+The left one, Touhou Kobuto V: Burst Battle is notable for a nintendo switch release (feel free to look this up if you have a switch)
+The center game is ZUN and Twilight Frontier’s own release, Touhou 14.5. (Japan only)
+The right one was the first game released through Play Doujin, Genso Ronder
+
+TRANSITION:
+Besides PS4 ZUN has also recently expanded into other areas, some of which are very close by → 
+
+
+Welcome to Steam, ZUN! (And fangames galore)
+Until very recently Touhou maingames was restricted essentially to Japan and to a very small niche in the West.
+e.g. no official english translations for any official games
+no western-release for any of the older games
+All this changed with Touhou Tenkuushou: Hidden Star in Four Seasons -- the first Steam Release (pictured)
+subsequent hype was so high HSiFS was ranked #1 on Steam for a short while
+Touhou 15.5 and Touhou 16.5 followed after it (as well as future releases)
+Touhou 15 and Touhou 14.3 published and available for purchase very recently
+Skyrocheting Touhou fangame Steam releases thanks to ZUN’s recent blessing over scaled up fangame release (feel free to search up on Steam!)
+Some games licensed by publishers (e.g. NISA) for bundled english translations
+Exciting times right now for Touhou fans as the series becomes more mainstream
+
+
+Miscellaneous (a.k.a. Everything Else)
+even more variety in the “Miscellaneous category”
+
+again comes down to having a keen eye at the convention
+
+pictured:
+life-size fumo touhou doll (really popular but expensive)
+touhou keychains
+Danmaku!!!! card game
+yukkuri plushie (yep)
+a ZUN figurine (also yep)
+nendoroid touhou figurines of Patchoulli Marisa and alice
+
+
+Resources
+www.en.touhouwiki.net 
+www.moriyashrine.org 
+www.reddit.com/r/touhou
+www.tinyurl.com/touhou199 
+www.google.com  
+ZUN’s Pages
+Blog 1: https://kourindou.exblog.jp/
+Blog 2: http://www16.big.or.jp/~zun/
+YouTube: https://tinyurl.com/zunyoutube
+Twitter Handle: @korindo
+Additional Resources/Contact Info
+Contact Info
+Brian Lee: leebri@umich.edu
+Yuchen Liu: lyuchen@umich.edu 
+Find Us At
+Great Lakes Touhou Discord: https://discord.gg/CA5bmEE
+Touhou Subreddit Discord: https://discordapp.com/invite/MYcHUeh
+
+
+Thanks for Coming! 
+Based off Reimu Hakurei
+
+Live demos, anyone?
+
+DOUJIN GAMES
+Why do we like creating Touhou doujin games?
+
+Appendix
+76
+
+東方紅魔郷 ～ Embodiment of Scarlet Devil
+https://youtu.be/pnVfknqnTuo?t=1171 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+Plot of each game is independent.
+Embodiment of Scarlet Devil marked the debut of Touhou on Windows. ZUN chose a western theme to catch ppl by surprise. It introduced "spell cards". It has Vampires, maid, and magicians, and JoJo reference
+
+東方妖々夢 ～ Perfect Cherry Blossom
+https://youtu.be/pnVfknqnTuo?t=3317 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+Perfect Cherry Blossom is a lot more Japanese, about a Ghost trying to revive a body under a cherry tree. Made more emphasis on Japanese poems (Waka).
+
+
+東方永夜抄 ～ Imperishable Night
+https://youtu.be/pnVfknqnTuo?t=3492 | Touhou - Perfect Lunatic All Windows Main Games Compilation
+Imperishable Night introduces lunarians. The story revolves around the legend of the bamboo cutter. Playables from previous game gathered to solve the incident (fake moon). Spell practice, deep backstory. Supposed to be the end of the trilogy, but ZUN continued TH due to popularity. Easy game but hard to get it working on modern OS.
+Games are mostly independent with "carefree" dialogs, but complexity of story is creeping...
+
+東方萃夢想 ～ Immaterial and Missing Power
+https://youtu.be/SrZ5nvKZmN8?t=1634 | Touhou 7.5: Immaterial and Missing Power - Reimu
+Fighting game made by Twilight Frontier (Tasofro). Danmaku + fighting
+Endless party
+
+
+東方花映塚 ～ Phantasmagoria of Flower View
+Thumbnail of https://www.youtube.com/watch?v=KSH24X7nkrE | Touhou 9: Phantasmagoria of Flower View - Yuuka - YouTube
+PoFV is like a fan service. Versus game just like PoDD. A solemn story with quite a bit of philosophical thoughts, about death, war, Death, Yama, and hell.
+
+東方文花帖 ～ Shoot the Bullet
+Cover https://www.youtube.com/watch?v=7a86AzMcx7g | Touhou 9.5: Shoot the Bullet - Level 1: Wriggle - YouTube
+Tengu paparazzi collecting news
+Harder than mainline game, you don’t shoot bullets, but take pictures of the bullet. Your camera can cancel bullets.
